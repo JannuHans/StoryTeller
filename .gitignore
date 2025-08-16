@@ -1,0 +1,114 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.key
+*.pem
+secrets.json
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+.tmp/
+
+# Generated files
+*.log
+*.pdf
+*.mp3
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.ico
+
+# Streamlit
+.streamlit/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Project specific
+temp_dir/
+generated_stories/
+storybook_*.pdf
+story_audio_*.mp3
+page_*.png
